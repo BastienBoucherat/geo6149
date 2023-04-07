@@ -1,4 +1,4 @@
-index,Name,Year,Scope,Source,Format,Link,Use,Validated
+index,Name,Year,Scope,Source,Format,Link,Use?,Validated?
 0,Canadian Province borders,,Canada,Statistiques Canada,kml,https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/canvec/index/canvec_admin.kmz,False,True
 1,Canadian Province borders,2021,Canada,Statistiques Canada,shapefile,https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000b21a_e.zip,True,True
 2,US State borders,2018,USA,US Government,shapefile,https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_500k.zip,True,True
