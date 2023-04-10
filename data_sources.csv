@@ -1,7 +1,8 @@
 index,Title,Source,Year,Area,Link,File Name,Use?,Type,Format
 0,Canadian Province borders,Statistiques Canada,,Canada,https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/canvec/index/canvec_admin.kmz,,False,Boundaries,kml
-1,Canadian Province borders,Statistiques Canada,2021,Canada,https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000b21a_e.zip,lpr_000b21a_e,True,Boundaries,shapefile
+1,Canadian Province borders,Statistiques Canada,2021,Canada,https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000b21a_e.zip,lpr_000b21a_e,False,Boundaries,shapefile
 2,US State borders,US Government,2018,USA,https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_500k.zip,cb_2018_us_state_500k,True,Boundaries,shapefile
 3,Population distribution,World Pop,2020,World,https://data.worldpop.org/GIS/Population/Global_2000_2020/2020/0_Mosaicked/ppp_2020_1km_Aggregated.tif,,False,Population,geotiff
 4,Population distribution,GHSL,,World_tiles,https://ghsl.jrc.ec.europa.eu/download/GHSL_data_54009_shapefile.zip,GHSL2_0_MWD_L1_tile_schema_land,True,Population,shapefile
 5,Land cover,Statistiques Canada,2015,Canada,https://ftp.maps.canada.ca/pub/nrcan_rncan/Land-cover_Couverture-du-sol/canada-landcover_canada-couverture-du-sol/CanadaLandcover2015.zip,,False,Land,geotiff
+6,Canadian Province borders,Statistiques Canada,2016,Canada,https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/files-fichiers/2016/lpr_000b16a_e.zip,lpr_000b16a_e,True,Boundaries,shapefile
